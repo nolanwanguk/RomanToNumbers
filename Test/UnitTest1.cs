@@ -1,7 +1,6 @@
 
 namespace Test
 {
-
     public class Tests
     {
         private Solver Solver;
